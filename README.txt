@@ -1,6 +1,6 @@
 DB
 --
-CREATE SCHEMA `hotel` ;
+CREATE SCHEMA `test` ;
 
 
 $ mvn archetype:generate
@@ -16,3 +16,7 @@ Define value for property 'package' com.test.springboot.jpa: : war
 $ mvn eclipse:eclipse
 
 $ mvn package -Dmaven.test.skip=true
+
+
+
+http://patorjk.com/software/taag/#p=display&h=1&f=Soft&t=Planets%20Server
